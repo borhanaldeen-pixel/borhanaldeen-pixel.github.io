@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.borhanaldeen_pixel.twa",
+        "sha256_cert_fingerprints": ["C7:27:36:3A:11:8F:B6:CD:EB:B5:07:C3:0A:24:C9:F0:1F:89:22:1D:88:7E:45:66:FA:98:07:5C:16:E1:5E:DD"]
+      }
+    }]
