@@ -1,8 +1,22 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.borhanaldeen_pixel.twa",
-        "sha256_cert_fingerprints": ["C7:27:36:3A:11:8F:B6:CD:EB:B5:07:C3:0A:24:C9:F0:1F:89:22:1D:88:7E:45:66:FA:98:07:5C:16:E1:5E:DD"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.borhanaldeen_pixel.twa",
+      "sha256_cert_fingerprints": [
+        "C7:27:36:3A:11:8F:B6:CD:EB:B5:07:C3:0A:24:C9:F0:1F:89:22:1D:88:7E:45:66:FA:98:07:5C:16:E1:5E:DD"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.borhanaldeen.debtbook",
+      "sha256_cert_fingerprints": [
+        "45:FD:6D:84:73:70:E8:58:CF:58:CA:6D:2B:50:24:9E:26:DB:2B:A0:73:84:54:62:FF:3D:5C:2F:AA:36:6B:A0"
+      ]
+    }
+  }
+]
