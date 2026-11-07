@@ -3,16 +3,6 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.borhanaldeen.qpt",
-      "sha256_cert_fingerprints": [
-        "97:EC:BB:55:D1:83:A7:7E:5E:58:4A:7D:15:B6:B5:20:26:B0:F5:36:11:5D:C2:BE:F0:E1:D3:94:B9:66:4C:03"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
       "package_name": "io.github.borhanaldeen_pixel.twa",
       "sha256_cert_fingerprints": [
         "C7:27:36:3A:11:8F:B6:CD:EB:B5:07:C3:0A:24:C9:F0:1F:89:22:1D:88:7E:45:66:FA:98:07:5C:16:E1:5E:DD"
